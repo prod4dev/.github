@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.p4d.ai">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.p4d.ai/p4dLogo-darkTheme.svg">
-      <img alt="P4D" src="https://www.p4d.ai/p4dLogo-lightTheme.svg" height="48">
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.p4d.ai/p4dLogo-lightTheme.svg">
+      <img alt="P4D" src="https://www.p4d.ai/p4dLogo-darkTheme.svg" height="48">
     </picture>
   </a>
 </p>
