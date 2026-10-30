@@ -17,4 +17,4 @@
 
 ---
 
-<p align="center">Diseñamos e integramos sistemas agénticos que trabajan con tus equipos, conectan tus herramientas y ejecutan procesos reales: atención, ventas, cobranzas, turnos y copilotos internos, sobre WhatsApp, voz, web y mail.</p>
+<p align="center">Diseñamos e integramos sistemas agénticos que trabajan con tus equipos, conectan tus herramientas y ejecutan procesos reales. Para que tu empresa pueda hacer más, de una manera completamente nueva.</p>
